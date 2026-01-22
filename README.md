@@ -2,7 +2,20 @@
 
 Este proyecto tiene como objetivo analizar datos históricos de ventas y construir un **modelo predictivo de Machine Learning** capaz de estimar los ingresos futuros de productos, utilizando Python y librerías de análisis de datos.
 
----
+Problema
+MarketPlus enfrenta desafíos comunes en plataformas de e-commerce:
+•	Falta de precisión en la proyección de la demanda mensual.
+•	Exceso de inventario en ciertos productos y faltantes en otros.
+•	Desconocimiento de los productos y categorías más rentables.
+•	Estrategias de descuento sin análisis de impacto en margen.
+•	Escasa visibilidad geográfica sobre el origen de los ingresos.
+🔎 Impacto: sobrecostos logísticos, pérdida de eficiencia comercial y decisiones poco informadas.
+
+🔬 Hipótesis
+1.	Los productos con mejores calificaciones y entregas más rápidas generan mayor volumen de ventas.
+2.	El 20% de los productos explica aproximadamente el 80% de los ingresos totales (Ley de Pareto).
+3.	Los descuentos aplicados estratégicamente aumentan ventas sin deteriorar márgenes.
+4.	Incorporar variables externas (estacionalidad, campañas y geografía) mejora la precisión del forecast.
 
 ## 🧠 Objetivo del Proyecto
 
@@ -15,8 +28,6 @@ Este proyecto tiene como objetivo analizar datos históricos de ventas y constru
   - `calificacion`
 - Evaluar el desempeño del modelo mediante métricas de error y visualización de resultados.
 
----
-
 ## 🧰 Tecnologías y Librerías Utilizadas
 
 - **Lenguaje:** Python 3.9+
@@ -27,8 +38,6 @@ Este proyecto tiene como objetivo analizar datos históricos de ventas y constru
   - `matplotlib` y `seaborn` → visualización de datos
   - `scikit-learn` → modelos de machine learning y métricas
   - `joblib` → guardar y cargar modelos
-
----
 
 ## 📈 Estructura del Proyecto
 
