@@ -1,0 +1,63 @@
+📊 Estrategias recomendadas para el cliente
+🎯 Objetivo
+
+Transformar los resultados del modelo de Machine Learning en acciones concretas de negocio que permitan mejorar el desempeño comercial y reducir el riesgo.
+
+🔹 1️⃣ Estrategia de inversión inteligente en publicidad
+
+Hallazgo del modelo
+La inversión en publicidad aparece como una de las variables con mayor influencia en el comportamiento de las ventas.
+
+Estrategia propuesta
+Aumentar la inversión publicitaria en períodos donde el modelo proyecta escenarios favorables, evitando una distribución uniforme del presupuesto durante todo el año.
+
+Justificación
+La publicidad actúa como un amplificador de escenarios positivos, generando un efecto multiplicador sobre las ventas en contextos de mayor estabilidad económica.
+
+🔹 2️⃣ Estrategia de precios dinámicos
+
+Hallazgo del modelo
+El precio promedio, en combinación con la inflación, impacta significativamente en la demanda.
+
+Estrategia propuesta
+Implementar una política de ajustes de precios graduales, acompañando la inflación y evitando aumentos abruptos.
+
+Justificación
+El modelo evidencia sensibilidad de las ventas frente a subas bruscas de precios, especialmente en contextos inflacionarios.
+
+🔹 3️⃣ Estrategia de cobertura frente al tipo de cambio
+
+Hallazgo del modelo
+El tipo de cambio resulta una de las variables más determinantes del comportamiento de las ventas.
+
+Estrategia propuesta
+Reducir la exposición a la volatilidad cambiaria mediante compras anticipadas, contratos en moneda local o diversificación de proveedores.
+
+Justificación
+En escenarios de fuerte devaluación, el modelo proyecta caídas significativas en las ventas.
+
+🔹 4️⃣ Estrategia de planificación basada en escenarios
+
+Hallazgo del modelo
+Las ventas varían considerablemente según el contexto económico.
+
+Estrategia propuesta
+Planificar la gestión comercial considerando simultáneamente escenarios optimista, base y pesimista, con acciones específicas para cada uno.
+
+Justificación
+El uso de escenarios reduce el riesgo estratégico y mejora la capacidad de respuesta ante cambios macroeconómicos.
+
+🔹 5️⃣ Estrategia de control temprano de riesgos
+
+Hallazgo del modelo
+Los mayores errores de predicción se concentran en períodos de alta volatilidad económica.
+
+Estrategia propuesta
+Utilizar el modelo como sistema de alerta temprana para detectar incrementos críticos en inflación o tipo de cambio y activar planes defensivos.
+
+🧾 Conclusión estratégica
+
+El modelo desarrollado no solo permite predecir el comportamiento de las ventas, sino que constituye una herramienta estratégica de apoyo a la toma de decisiones, facilitando la planificación comercial y la gestión del riesgo en contextos económicos inciertos.
+
+🏆 El verdadero valor del Machine Learning no reside únicamente en la predicción, sino en su capacidad para transformar datos en decisiones estratégicas.
+
